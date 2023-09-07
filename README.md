@@ -1,4 +1,4 @@
-# Ejercicio de Microservicio FastAPI con SQLite y Autenticación Basic Auth
+# Ejercicio de Microservicio FastAPI con SQL y Autenticación Basic Auth
 
 Este es un ejercicio de un microservicio REST API desarrollado en Python con el framework FastAPI. El servicio incluye una base de datos SQLite para almacenar datos y autenticación Basic Auth para proteger las rutas.
 
@@ -6,6 +6,12 @@ Este es un ejercicio de un microservicio REST API desarrollado en Python con el 
 
 - Python 3.7 o superior
 - Dependencias del proyecto (se pueden instalar utilizando `pip install -r requirements.txt`)
+
+## Informacion
+Para la Basic Auth utilizar el siguiente usuario:
+ - Usuario : username
+ - Contraseña: password
+
 
 ## Instalación y Ejecución
 
